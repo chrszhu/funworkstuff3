@@ -1,5 +1,3 @@
-Project: funworkstuff3
-
 Short summary
 - C-based simulation/filtering project that synthesizes a noisy 3D image volume, applies a particle-filter-like algorithm, and outputs processed values. The code uses OpenMP for parallelism and includes custom RNG and simple morphological operations.
 
